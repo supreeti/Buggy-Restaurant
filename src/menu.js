@@ -16,7 +16,7 @@ const menu = `
 
 const menuItem = `
 <div class="container d-flex flex-wrap">
-<div class="card m-2" style="width: 30rem;">
+<div class="card m-2" style="width: 20rem;">
   <img class="card-img-top" src="imgs/parfait.jpg" alt="Parfait">
   <div class="card-body">
    <h5>Parfait</h5>
@@ -25,7 +25,7 @@ const menuItem = `
 </div>
 
 
-<div class="card m-2" style="width: 30rem;">
+<div class="card m-2" style="width: 20rem;">
   <img class="card-img-top" src="imgs/banana_bread.jpg" alt="Banana bread">
   <div class="card-body">
    <h5>Banana Bread</h5>
@@ -34,7 +34,7 @@ const menuItem = `
 </div>
 
 
-<div class="card m-2" style="width: 30rem;">
+<div class="card m-2" style="width: 20rem;">
   <img class="card-img-top" src="imgs/beef_sauce.jpg" alt="Beef Sauce">
   <div class="card-body">
    <h5>Beef Sauce</h5>
@@ -42,7 +42,7 @@ const menuItem = `
   </div>
 </div>
 
-<div class="card m-2" style="width: 30rem;">
+<div class="card m-2" style="width: 20rem;">
   <img class="card-img-top" src="imgs/fried_rice_asun.jpg" alt="Fried Rice">
   <div class="card-body">
    <h5>Fried Rice with Asun</h5>
