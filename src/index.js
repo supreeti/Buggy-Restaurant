@@ -37,7 +37,7 @@ tabLinks.forEach((link) => {
       renderPage(content, renderMenu);
     }
 
-    if (e.target.textContent === 'Contact') {
+    if (e.target.textContent === 'Contect') {
       removeActive();
       e.target.classList.add('active');
       renderPage(content, renderContact);
